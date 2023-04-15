@@ -1,4 +1,4 @@
-# game-event-organiser
+
 
 1: Clone the Project 
 
@@ -8,4 +8,4 @@
    
 3: run the project using 
    ### `npm run dev '
-   it run on localserver
+   it run on localserver 5173
